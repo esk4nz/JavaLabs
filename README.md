@@ -1,6 +1,8 @@
 
 # Java labs
 
+The number in student list is 4.
+
 To begin you should copy a repository path:
 
 ```bash
